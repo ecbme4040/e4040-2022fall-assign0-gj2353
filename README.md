@@ -55,5 +55,10 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 │   ├── README.md
 │   ├── gcp_work_example_screenshot_1.png
 │   ├── gcp_work_example_screenshot_2.png
-│   └── gcp_work_example_screenshot_3.png
+│   ├── gcp_work_example_screenshot_3.png
+│   ├── gj2353_gcp_work_example_screenshot_1.png
+│   ├── gj2353_gcp_work_example_screenshot_2.png
+│   └── gj2353_gcp_work_example_screenshot_3.png
 └── requirements.txt
+
+1 directory, 10 files
